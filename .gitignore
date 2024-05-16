@@ -13,4 +13,5 @@ __pycache__/
 
 # Media
 media/*
-!media/.gitkeep Get-ChildItem -Force
+!media/default.png
+!media/.gitkeep
