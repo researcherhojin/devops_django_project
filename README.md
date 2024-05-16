@@ -31,6 +31,6 @@ http://127.0.0.1:8000/main/
 
 ## 필요한 환경
 
--   Python 3.8 이상
--   Django 4.x 이상
+-   Python 3.10 이상
+-   Django 5.x 이상
 -   `requirements.txt` 파일에 명시된 Python 패키지
