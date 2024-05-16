@@ -8,4 +8,9 @@ __pycache__/
 *.sqlite3
 
 # Migrations
-*/migrations/
+*/migrations/*
+!*/migrations/__init__.py
+
+# Media
+media/*
+!media/.gitkeep Get-ChildItem -Force
